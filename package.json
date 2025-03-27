@@ -1,0 +1,21 @@
+{
+  "name": "miercoles",
+  "version": "1.0.0",
+  "description": "clase2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "node --watch .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoS-AS/TP2-2B.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoS-AS/TP2-2B/issues"
+  },
+  "homepage": "https://github.com/DiegoS-AS/TP2-2B#readme"
+}
